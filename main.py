@@ -60,7 +60,7 @@ def main():
         if pipe_pair_list[0].remove:
             del pipe_pair_list[0]
 
-        #bird.draw(win)
+        bird.draw(win)
         pygame.display.update()
 
 
